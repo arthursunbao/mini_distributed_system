@@ -34,9 +34,3 @@ Membership control module using SWIM-protocol. It detects machine joining/leavin
 
 ### Connections
 Helper methods for TCP and UDP connections, and robust data transfer. 
-
-Authors
---------------
-Luis Remis (remis2 at illinois dot edu)
-
-Xuewei Zhang (xzhan160 at illinois dot edu)
